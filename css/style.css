@@ -1,0 +1,40 @@
+.logo{width: 150px; height: auto;}
+ul.menu{
+	background: #200707;
+}
+ul.menu{
+	margin: 40px 0 0 0 ;
+	padding: 0;
+}
+ul.menu li{
+	display: inline-block;
+	margin: 0 20px;
+}
+ul.menu li a{
+	color: red;
+	text-decoration: none;
+	font-size: 20px;
+}
+ul.menu li a:hover{
+	color: skyblue;
+}
+#more {display: none;}
+ul.menu2{
+	margin: 40px 20 20 20 ;
+	padding: 20;
+}
+ul.menu2 li{
+	display: inline-block;
+	margin: 0 40px;
+}
+ul.menu2 li a{
+	color: red;
+	text-decoration: none;
+	font-size: 20px;
+}
+ul.menu2 li a:hover{
+	color: skyblue;
+}
+ul.menu2{
+	background: greenyellow;
+}
